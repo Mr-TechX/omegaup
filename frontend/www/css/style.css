@@ -5,7 +5,7 @@ html {
 body {
   height: 100%;
   margin: 0;
-  background: #e4e8ec linear-gradient(to top, #e4e8ec, #f3f6f9) fixed no-repeat;
+  background: #4c4c4c linear-gradient(to top, #e4e8ec, #f3f6f9) fixed no-repeat;
   -webkit-font-smoothing: antialiased;
 }
 
